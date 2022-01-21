@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@500&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    
+    background-color:  #fceab9;
+    /* height: 100vh; */
+    padding: 40px 0px;
+    /* background-color:  #FFFBF0; */
+}
+.hero-area .navbar li{
+    padding: 0 15px;
+}
+.hero-area .banner-title h1{
+    color: #363958;
+    font-size: 5rem;
+    font-family: 'Bebas Neue', cursive;
+}
+.hero-area .banner-title span{
+    color: #FABE4C;
+}
+
+/* jackets part */
+.woman-items .card{
+    border-radius: 20px;
+    
+}
+.woman-items .cart-banner{
+    border-radius: 20px;
+    background-color: #F1F1F1;
+}
+
+/* // extra Small devices (landscape phones, 575px and less) */
+@media (max-width: 575px) { 
+    .hero-area .banner-title h1{
+        font-size: 60px;
+    }
+ }
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+ }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+ }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+ }
